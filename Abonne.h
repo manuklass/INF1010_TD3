@@ -1,6 +1,6 @@
 #ifndef ABONNE_H
 #define ABONNE_H
-
+hkp
 #include <string>
 #include "Emprunt.h"
 #include "ObjetEmpruntable.h"
