@@ -45,6 +45,16 @@ std::vector<Emprunt*> Abonne::obtenirEmprunts() const
 	return vecEmprunts_;
 }
 
+unsigned int Abonne::obtenirEmpruntsLimite() const
+{
+	return LimiteEmprunts(i);
+}
+
+unsigned int Abonne::LimiteEmprunts(unsigned int i) const
+{
+	return i
+}
+
 void Abonne::modifierMatricule(const string& matricule)
 {
 	matricule_ = matricule;
