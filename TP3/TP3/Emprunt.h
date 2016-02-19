@@ -18,7 +18,7 @@ public:
 	void modifierMatricule(const std::string& matricule);
 	void modifierLivre(Livre *livre);
 	void modifierDateRetour(unsigned int date);
-
+	
 //____________________________________A COMPLETER !
 
 
